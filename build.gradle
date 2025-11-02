@@ -9,7 +9,7 @@ def jsonAssertVersion = '1.5.1'
 group 'uj.wmii.pwj'
 version '1.0-SNAPSHOT'
 
-sourceCompatibility = JavaVersion.VERSION_21
+sourceCompatibility = JavaVersion.VERSION_17
 
 repositories {
     mavenCentral()
